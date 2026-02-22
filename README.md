@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=000000&center=true&vCenter=true&width=500&lines=Computer+Science+Student;Aspiring+Software+Developer;Web+Developer+in+Progress;Open+to+Internships)
 # Hi, I'm Aaditya Joshi 👋
 
 🎓 Computer Science Engineering Student at Dr. D. Y. Patil Technical Campus, Pune
